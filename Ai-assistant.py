@@ -101,5 +101,5 @@ if __name__ == "__main__":
                 sendEmail(to, content)
                 speak("Email has been sent!")
             except Exception as e:
-                print(e)
+                #  print(e)
                 speak("I am not able to send this email")    
