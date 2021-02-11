@@ -4,7 +4,7 @@ It can do basic tasks like open application, send emails, use wikipedia, play so
 
 !!Recommended python v3.8.x!!
 
-###install commands---<br>
+### install commands---<br>
 pip install pyttsx3<br>
 pip install SpeechRecognition<br>
 pip install Wikipedia<br>
